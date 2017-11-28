@@ -18,3 +18,4 @@ Styling changes can be made in /css/customisations.css, which keeps the bootstra
 ## Contributors
 * mjg17
 * ben
+* katjad
