@@ -3,7 +3,7 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-bottom: 40px;
+  padding-bottom: 60px;
   color: #5a5a5a;
 }
 
@@ -23,7 +23,7 @@ body {
 
 /* Flip around the padding for proper display in narrow viewports */
 .navbar-wrapper > .container {
-  padding-right: 0;
+  padding-right: 5;
   padding-left: 0;
 }
 .navbar-wrapper .navbar {
@@ -40,7 +40,7 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 500px;
+  height: 600px;
   margin-bottom: 60px;
 }
 /* Since positioning the image, we need to help out the caption */
@@ -72,7 +72,7 @@ body {
   text-align: center;
 }
 .marketing h2 {
-  font-weight: normal;
+  font-weight: bold;
 }
 .marketing .col-lg-4 p {
   margin-right: 10px;
@@ -127,12 +127,12 @@ body {
   }
 
   .featurette-heading {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 120px;
+/*    margin-top: 120px;*/
   }
 }
