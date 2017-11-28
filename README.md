@@ -13,3 +13,5 @@ It is a simple [Bootstrap](http://getbootstrap.com/) webpage that has had the [C
 To make changes you can edit the index.html file.
 
 Styling changes can be made in /css/customisations.css, which keeps the bootstrap framework's styling untouched.
+
+** checking in :) **
