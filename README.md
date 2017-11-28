@@ -14,4 +14,7 @@ To make changes you can edit the index.html file.
 
 Styling changes can be made in /css/customisations.css, which keeps the bootstrap framework's styling untouched.
 
-** checking in :) **
+
+## Contributors
+* mjg17
+* ben
