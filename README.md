@@ -1,3 +1,5 @@
+Gordon woz ere
+
 # Develop Me Simple Git Exercise
 
 This repository has been set up for the Git Workshop attendees to have a go working on and committing work to a Git repository.
@@ -18,3 +20,4 @@ Styling changes can be made in /css/customisations.css, which keeps the bootstra
 ## Contributors
 * mjg17
 * ben
+* katjad
